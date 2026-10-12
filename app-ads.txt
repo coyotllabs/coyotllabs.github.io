@@ -1,2 +1,2 @@
-# Reemplaza pub-0000000000000000 por tu ID de editor de AdMob (AdMob → Configuración → Información de la cuenta).
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# ID de editor de AdMob de Coyotl Labs.
+google.com, pub-1985137816359617, DIRECT, f08c47fec0942fa0
